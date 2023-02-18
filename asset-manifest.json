@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doit-react-hw-03-contact_book/static/css/main.6bce71ec.css",
+    "main.js": "/doit-react-hw-03-contact_book/static/js/main.00d083d7.js",
+    "index.html": "/doit-react-hw-03-contact_book/index.html",
+    "static/media/close.svg": "/doit-react-hw-03-contact_book/static/media/close.c39ccb73e95d4c6da2e8a22151f162fd.svg",
+    "static/media/delete.svg": "/doit-react-hw-03-contact_book/static/media/delete.10dcf5238adb9d157f5ccd92858c445f.svg",
+    "static/media/add.svg": "/doit-react-hw-03-contact_book/static/media/add.627ec9005e2fe2e62287d72aeec4ec58.svg",
+    "main.6bce71ec.css.map": "/doit-react-hw-03-contact_book/static/css/main.6bce71ec.css.map",
+    "main.00d083d7.js.map": "/doit-react-hw-03-contact_book/static/js/main.00d083d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bce71ec.css",
+    "static/js/main.00d083d7.js"
+  ]
+}
