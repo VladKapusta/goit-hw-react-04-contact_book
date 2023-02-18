@@ -1,5 +1,6 @@
 import styled from '@emotion/styled';
-import { IconButton } from 'components/Button/Button';
+import { IconButton } from 'components/ContactBook/Button/Button';
+
 
 export const TextContent = styled.span`
   width: 250px;

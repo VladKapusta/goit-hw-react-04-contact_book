@@ -2,7 +2,7 @@
   "name": "contact_book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VladKapusta.github.io/doit-react-hw-03-contact_book/",
+  "homepage": "https://VladKapusta.github.io/goit-hw-react-04-contact_book/",
   "dependencies": {
     "@emotion/styled": "^11.10.5",
     "@testing-library/jest-dom": "^5.16.3",
