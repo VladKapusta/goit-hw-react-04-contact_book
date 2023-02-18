@@ -50,7 +50,7 @@ export const ContactBook = function () {
   );
 
   return (
-    <section>
+    <SectionContactBook>
       <Titel>PhoneBook</Titel>
       {showModal && (
         <Modal closeModal={toggleModal}>
@@ -76,7 +76,7 @@ export const ContactBook = function () {
       ) : (
         <p>Contact list is empty.</p>
       )}
-    </section>
+    </SectionContactBook>
   );
 };
 
