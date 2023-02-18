@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/goit-hw-react-04-contact_book/static/css/main.6bce71ec.css",
+    "main.css": "/goit-hw-react-04-contact_book/static/css/main.2aa5a0c5.css",
     "main.js": "/goit-hw-react-04-contact_book/static/js/main.7612315a.js",
     "index.html": "/goit-hw-react-04-contact_book/index.html",
     "static/media/close.svg": "/goit-hw-react-04-contact_book/static/media/close.c39ccb73e95d4c6da2e8a22151f162fd.svg",
     "static/media/delete.svg": "/goit-hw-react-04-contact_book/static/media/delete.10dcf5238adb9d157f5ccd92858c445f.svg",
     "static/media/add.svg": "/goit-hw-react-04-contact_book/static/media/add.627ec9005e2fe2e62287d72aeec4ec58.svg",
-    "main.6bce71ec.css.map": "/goit-hw-react-04-contact_book/static/css/main.6bce71ec.css.map",
+    "main.2aa5a0c5.css.map": "/goit-hw-react-04-contact_book/static/css/main.2aa5a0c5.css.map",
     "main.7612315a.js.map": "/goit-hw-react-04-contact_book/static/js/main.7612315a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bce71ec.css",
+    "static/css/main.2aa5a0c5.css",
     "static/js/main.7612315a.js"
   ]
 }
