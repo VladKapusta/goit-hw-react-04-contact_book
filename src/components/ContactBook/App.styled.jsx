@@ -5,6 +5,7 @@ export const SectionContactBook = styled.section`
   width: 700px;
   min-height: 310px;
   margin: 50px auto ;
+  padding: 10px 30px 20px;
 
   background-color: rgb(206, 206, 206);
   border-radius: 8px;
